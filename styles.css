@@ -28,8 +28,8 @@ header{
 .div2{
     /* display: inline-block; */
     padding-right: 3vw;
-    padding-left: 3;
-    float: left;
+    padding-left: 3vw;
+    /* float: left; */
     margin: 0 10px;
 }
 
